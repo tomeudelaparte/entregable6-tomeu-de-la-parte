@@ -5,7 +5,7 @@ using UnityEngine;
 public class MoveForward : MonoBehaviour
 {
     // Almacena la velocidad del proyectil
-    private float speed = 100f;
+    private float speed = 5f;
 
     // Almacena el valor límite en X y Y
     private float xRange = 9;
